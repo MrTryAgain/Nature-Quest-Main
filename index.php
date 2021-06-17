@@ -33,8 +33,7 @@
     <h1>Welcome to my home page!</h1>
     <hr>
     <br>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab iusto,
-        et alias saepe neque quibusdam nemo maxime facere numquam repellendus
+    <p>Lorem ipsum dolor sit amet e numquam repellendus
         hic laudantium adipisci animi voluptas nesciunt harum vitae consequuntur in..</p>
     <br>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quo quidem
