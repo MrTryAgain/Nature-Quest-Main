@@ -37,7 +37,7 @@
         hic laudantium adipisci animi voluptas nesciunt harum vitae consequuntur in..</p>
     <br>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quo quidem
-        iste qui ipsa explicabo eveniet minus, numquam accusantium laboriosam consectetur rem,
+        iste qui ipsa explicabo eveniet minus, numquam accusantium 
         ex pariatur tempora dignissimos necessitatibus doloremque facilis magnam!. Lorem ipsum
         dolor sit amet consectetur adipisicing elit. Ad, qui voluptatibus? Aspernatur laudantium
         nam odio rem ratione consequatur officia error architecto, quidem praesentium ipsa at dolor
