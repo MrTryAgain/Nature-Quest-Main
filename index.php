@@ -36,12 +36,12 @@
     <p>Lorem ipsum dolor sit amet e numquam repellendus
         hic laudantium adipisci animi voluptas nesciunt harum vitae consequuntur in..</p>
     <br>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quo quidem
+    <p><span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quo quidem
         iste qui ipsa explicabo eveniet minus, numquam accusantium 
         ex pariatur tempora dignissimos necessitatibus doloremque facilis magnam!. Lorem ipsum
         dolor sit amet consectetur adipisicing elit. Ad, qui voluptatibus? Aspernatur laudantium
         nam odio rem ratione consequatur officia error architecto, quidem praesentium ipsa at dolor
-        maiores cupiditate. Voluptate, ex.</p>
+        maiores cupiditate. Voluptate, ex.</span></p>
     <br>
 
     <p>hello my name is Urs</p>
