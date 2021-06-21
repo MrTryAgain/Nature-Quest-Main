@@ -2,17 +2,20 @@
 body {
   background-color: rgb(141, 189, 216);
 
-  .questionBox {
+  .Resultate {
     width: 60%;
     height: 80%;
     background-color: bisque;
     border: outset black 5px;
     margin-right: auto;
     margin-left: auto;
-    min-height: 500px;
+    min-height: 300px;
     padding: 40px;
     line-height: 50px;
     margin-top: 100px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
   }
 
   .btnNextPage {

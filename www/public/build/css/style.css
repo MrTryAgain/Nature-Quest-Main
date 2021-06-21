@@ -1,10 +1,15 @@
+.site-identity img {
+  max-width: 70%;
+  margin: 0 10px 0 0;
+}
+
 /* Footer */
 .footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #ee5050;
+  background-color: #474343;
   color: white;
   text-align: center;
 }
@@ -70,7 +75,7 @@ body {
   background-color: #8dbdd8;
 }
 
-body .questionBox {
+body .intro {
   width: 60%;
   height: 80%;
   background-color: bisque;
@@ -81,6 +86,10 @@ body .questionBox {
   padding: 40px;
   line-height: 50px;
   margin-top: 100px;
+}
+
+body .intro h1 {
+  text-align: center;
 }
 
 body .btnNextPage {
@@ -99,17 +108,20 @@ body {
   background-color: #8dbdd8;
 }
 
-body .questionBox {
+body .Resultate {
   width: 60%;
   height: 80%;
   background-color: bisque;
   border: outset black 5px;
   margin-right: auto;
   margin-left: auto;
-  min-height: 500px;
+  min-height: 300px;
   padding: 40px;
   line-height: 50px;
   margin-top: 100px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bolder;
 }
 
 body .btnNextPage {
