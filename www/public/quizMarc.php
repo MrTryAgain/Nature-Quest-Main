@@ -1,14 +1,21 @@
 <?php require_once "include/header.php" ?>
 
 
-<?php
 
-echo "Marc Quiz<br>";
-echo "erste Frage.......<br>
-  kommt noch ;)<br>";
 
-?>
+<div class="questionBox">
+  <ol>
+    <li>questions go here</li>
+    <br>
+    <li>questions go here</li>
+    <br>
+    <li>questions go here</li>
 
-<p>pp</p>
+  </ol>
+</div>
+
+<center>
+  <button onclick="window.location.href='result.php';" class="button btnNextPage">Next Page</button>
+</center>
 
 <?php require_once "include/footer.php" ?>
