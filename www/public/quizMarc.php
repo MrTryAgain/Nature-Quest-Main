@@ -1,12 +1,14 @@
-<?php require_once "include/header.php"?>
+<?php require_once "include/header.php" ?>
 
 
-  <?php
+<?php
 
-  echo "Marc Quiz<br>";
-  echo "erste Frage.......<br>
+echo "Marc Quiz<br>";
+echo "erste Frage.......<br>
   kommt noch ;)<br>";
 
-  ?>
+?>
 
-<?php require_once "include/footer.php"?>
+<p>pp</p>
+
+<?php require_once "include/footer.php" ?>
