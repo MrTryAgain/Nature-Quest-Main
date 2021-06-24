@@ -15,31 +15,79 @@
 }
 
 body {
-  background-color: #8dbdd8;
+  background-color: lightblue;
 }
 
-body .questionBox {
+body .formMarc,
+body #introBox {
   width: 60%;
   height: 80%;
-  background-color: bisque;
-  border: outset black 5px;
+  background-color: #f3ebbc;
+  border: outset grey 5px;
   margin-right: auto;
   margin-left: auto;
   min-height: 500px;
   padding: 40px;
   line-height: 50px;
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 100px;
 }
 
-body .btnNextPage {
+body .formMarc .submitMarc,
+body #introBox .submitMarc {
   width: 20%;
   height: 20%;
-  background-color: #a6a81c;
-  border: outset black 5px;
+  background-color: rgba(182, 230, 94, 0.589);
+  border: outset grey 5px;
   font-size: 18px;
   margin: auto;
   min-height: 50px;
   padding: 10px;
   margin-top: 20px;
+}
+
+body #quizBox {
+  width: 60%;
+  height: 80%;
+  background-color: #f3ebbc;
+  border: outset grey 5px;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 500px;
+  padding: 40px;
+  line-height: 50px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+body .nextPage,
+body .submitBtn {
+  width: 20%;
+  height: 20%;
+  background-color: rgba(182, 230, 94, 0.589);
+  border: outset grey 5px;
+  font-size: 18px;
+  margin: auto;
+  min-height: 50px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#resultBox {
+  width: 60%;
+  height: 80%;
+  background-color: #f3ebbc;
+  border: outset grey 5px;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 500px;
+  padding: 40px;
+  line-height: 50px;
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 100px;
+  padding: 200px;
 }
 
 body {
