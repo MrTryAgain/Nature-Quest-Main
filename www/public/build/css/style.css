@@ -184,6 +184,62 @@ body .btnNextPage {
   margin-top: 20px;
 }
 
+.h1urs {
+  text-align: center;
+  font-size: 75px;
+}
+
+#quiz input {
+  vertical-align: middle;
+}
+
+#quiz ol {
+  margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+  margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+  padding: 4px 0;
+}
+
+#quiz h3 {
+  font-size: 17px;
+  margin: 0 0 1px 0;
+  color: #666;
+}
+
+#results {
+  font: 44px Georgia, Serif;
+}
+
+.submitbtn {
+  width: 20%;
+  height: 20%;
+  background-color: #e7d37a;
+  border: outset #b8b5ae 5px;
+  font-size: 18px;
+  margin: auto;
+  min-height: 50px;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.questionBoxUrs {
+  width: 60%;
+  height: 80%;
+  background-color: #fff9c4;
+  border: outset black 5px;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 500px;
+  padding: 40px;
+  line-height: 50px;
+}
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
