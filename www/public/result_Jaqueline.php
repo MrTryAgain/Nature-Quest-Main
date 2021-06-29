@@ -12,14 +12,14 @@
 
     if($_SESSION['quiz_counter'] == count ($_SESSION['questions'])){
 
-        require_once "../include/header.php";
+        require_once "include/header.php";
 
         echo"HERE IS YOUR RESULT<br>"; /// HERE YOU ADD A VALITAION =)
         echo $_SESSION['score'] . "<br>";
         echo count($_SESSION['questions']);
 
 
-        require_once "../include/footer.php";
+        require_once "include/footer.php";
         
         session_destroy();
     } else {

@@ -41,9 +41,9 @@
 
 ?>
 
-<?php require_once "../include/header.php"?>
+<?php require_once "include/header.php"?>
 <link rel="stylesheet" href="./../build/css/style.css">
-<link rel="stylesheet" href="./../build/css/j_style.css">
+<!-- <link rel="stylesheet" href="./../build/css/j_style.css"> -->
 
 <div class="container">
     <form action="result.php" method="POST">
@@ -61,5 +61,5 @@
     <button>Send</button>
     </form>
 </div>
-<?php require_once "../include/footer.php"?>
+<?php require_once "include/footer.php"?>
 
