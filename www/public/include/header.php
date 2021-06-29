@@ -10,12 +10,16 @@
 </head>
 
 <body>
-
-<nav>
-<ul>
-  <li><a href="index.php">Home</a></li>
-  <li><a href="quizUrs.php">Quiz Urs</a></li>
-  <li><a href="quizMarc.php">Quiz Marc</a></li>
-  <li><a href="quiz_jaqueline.php">Quiz Jacqueline</a></li>
-</ul>
-</nav>
+  <header>
+    <nav>
+      <div class="site-identity">
+        <a href="#"><img src="src/images/Logo.png"></a>
+        <ul>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="quizUrs.php">Quiz Urs</a></li>
+          <li><a href="quizMarc.php">Quiz Marc</a></li>
+          <li><a href="quizJacqueline.php">Quiz Jacqueline</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>

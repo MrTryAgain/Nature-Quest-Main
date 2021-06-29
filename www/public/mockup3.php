@@ -3,14 +3,11 @@
 
 
 
-<div class="questionBox">
-  <ol>
-    <li>questions go here</li>
-    <br>
-    <li>questions go here</li>
-    <br>
-    <li>questions go here</li>
-  </ol>
+<div class="Resultate">
+  <p>Herzlichen Glückwünsche!
+    Du hast 3 von 20 Fragen richtig beantwortet.</p>
+  <br>
+
 </div>
 
 <center>
