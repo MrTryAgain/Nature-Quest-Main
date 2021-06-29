@@ -23,6 +23,6 @@
         
         session_destroy();
     } else {
-        header('Location: quiz.php');
+        header('Location: quiz_jaqueline.php');
     }   
 }

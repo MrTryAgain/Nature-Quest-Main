@@ -46,7 +46,7 @@
 <!-- <link rel="stylesheet" href="./../build/css/j_style.css"> -->
 
 <div class="container">
-    <form action="result.php" method="POST">
+    <form action="result_Jaqueline.php" method="POST">
       
         <h1><?php echo $_SESSION['questions'][$counter][0] ;?></h1>  
         <input type="radio" name="a" id="a1" value="<?php echo $_SESSION['answers'][$counter][0]; ?>">

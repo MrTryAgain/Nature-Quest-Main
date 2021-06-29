@@ -18,7 +18,7 @@
           <li><a href="index.php">Home</a></li>
           <li><a href="quizUrs.php">Quiz Urs</a></li>
           <li><a href="quizMarc.php">Quiz Marc</a></li>
-          <li><a href="quizJacqueline.php">Quiz Jacqueline</a></li>
+          <li><a href="quiz_jaqueline.php">Quiz Jacqueline</a></li>
         </ul>
       </div>
     </nav>
