@@ -16,6 +16,6 @@
   <li><a href="index.php">Home</a></li>
   <li><a href="quizUrs.php">Quiz Urs</a></li>
   <li><a href="quizMarc.php">Quiz Marc</a></li>
-  <li><a href="quizJacqueline.php">Quiz Jacqueline</a></li>
+  <li><a href="Jacqueline_quiz/quiz.php">Quiz Jacqueline</a></li>
 </ul>
 </nav>

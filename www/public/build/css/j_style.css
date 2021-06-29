@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  padding-top: 50px;
+  padding-left: 0px;
+  margin: 10px;
+}
+
+html {
+  margin: 0;
+  font: normal 18px sans-serif;
+  color: #555;
+  line-height: 1.6;
+  background-color: #8dbdd8;
+  padding: none;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+button {
+  text-align: center;
+  float: middle;
+  padding: 0;
+  border: none;
+  font-size: large;
+  background-color: transparent;
+  color: #555;
+}
